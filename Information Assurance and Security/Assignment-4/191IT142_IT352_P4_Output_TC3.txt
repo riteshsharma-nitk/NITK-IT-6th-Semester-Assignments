@@ -1,0 +1,10 @@
+After Encryption :
+PlainText : udupi sweet stall
+CipherText : mxlpb zgepl mkaes
+KeyStream : surathkal
+
+After Decryption :
+CipherText : mxlpb zgepl mkaes
+PlainText : udupi sweet stall
+KeyStream : surathkal
+

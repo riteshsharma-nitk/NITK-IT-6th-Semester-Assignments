@@ -1,0 +1,10 @@
+After Encryption :
+PlainText : Surathkal railway station
+CipherText : Lbzcdmyrp jtbseci xhrxahg
+KeyStream : thickforest
+
+After Decryption :
+CipherText : Lbzcdmyrp jtbseci xhrxahg
+PlainText : Surathkal railway station
+KeyStream : thickforest
+

@@ -1,0 +1,10 @@
+After Encryption :
+PlainText : Surathkal bus stop
+CipherText : Euegtskml oas dtap
+KeyStream : mangala
+
+After Decryption :
+CipherText : Euegtskml oas dtap
+PlainText : Surathkal bus stop
+KeyStream : mangala
+

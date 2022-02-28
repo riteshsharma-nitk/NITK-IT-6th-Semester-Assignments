@@ -1,0 +1,10 @@
+After Encryption :
+PlainText : mangalore bust stop
+CipherText : naamawcii cufz secg
+KeyStream : bangalore
+
+After Decryption :
+CipherText : naamawcii cufz secg
+PlainText : mangalore bust stop
+KeyStream : bangalore
+

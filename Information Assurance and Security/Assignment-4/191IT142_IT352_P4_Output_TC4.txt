@@ -1,0 +1,10 @@
+After Encryption :
+PlainText : mangaloe city center
+CipherText : reoxulfc hmup weerjv
+KeyStream : february
+
+After Decryption :
+CipherText : reoxulfc hmup weerjv
+PlainText : mangaloe city center
+KeyStream : february
+

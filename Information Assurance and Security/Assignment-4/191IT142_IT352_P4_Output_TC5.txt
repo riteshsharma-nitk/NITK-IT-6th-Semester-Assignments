@@ -1,0 +1,10 @@
+After Encryption :
+PlainText : goa sea shore
+CipherText : lcr wwt xvfvw
+KeyStream : forest
+
+After Decryption :
+CipherText : lcr wwt xvfvw
+PlainText : goa sea shore
+KeyStream : forest
+
