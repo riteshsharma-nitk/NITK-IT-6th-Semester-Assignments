@@ -1,0 +1,8 @@
+Blocks : 
+Block 0 : 
+c a 
+l e 
+Block 1 : 
+n d 
+a r 
+Key-inverse does not exist

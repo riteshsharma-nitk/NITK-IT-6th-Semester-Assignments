@@ -1,0 +1,29 @@
+Blocks : 
+Block 0 : 
+c i 
+r c 
+Block 1 : 
+u l 
+a r 
+After Encryption : 
+PlainText block and Encrypted block (ASCII values) : 0
+c i 
+r c 
+164 165 
+254 232 
+PlainText block and Encrypted block (ASCII values) : 1
+u l 
+a r 
+86 69 
+125 123 
+After Decryption : 
+Encrypted block (ASCII values) and Decrypted block 0 : 
+164 165 
+254 232 
+c i 
+r c 
+Encrypted block (ASCII values) and Decrypted block 1 : 
+86 69 
+125 123 
+u l 
+a r 
