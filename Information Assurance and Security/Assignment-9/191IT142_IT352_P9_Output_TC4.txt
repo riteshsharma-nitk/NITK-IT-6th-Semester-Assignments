@@ -1,0 +1,13 @@
+Private key (d) = 11
+
+Signing Operation : 
+Digest (D) : 669f8a0e408dd715cc418bdeafc190b1
+Digital Signature Values (RSA Encrypted) : [365, 365, 1902, 1165, 1614, 709, 894, 1493, 1846, 894, 1614, 1988, 1988, 413, 638, 531, 1141, 1141, 1846, 638, 1614, 1058, 1988, 1493, 709, 1165, 1141, 638, 1902, 894, 1058, 638]
+(Message, Signature) pair : (NITK Campus, [365, 365, 1902, 1165, 1614, 709, 894, 1493, 1846, 894, 1614, 1988, 1988, 413, 638, 531, 1141, 1141, 1846, 638, 1614, 1058, 1988, 1493, 709, 1165, 1141, 638, 1902, 894, 1058, 638]
+
+Verifying : 
+Message : NITK Campus
+Digest (D) : 669f8a0e408dd715cc418bdeafc190b1
+Digest value (RSA Decrypted) : [54, 54, 57, 102, 56, 97, 48, 101, 52, 48, 56, 100, 100, 55, 49, 53, 99, 99, 52, 49, 56, 98, 100, 101, 97, 102, 99, 49, 57, 48, 98, 49]
+Decrypted Digest (D') : 669f8a0e408dd715cc418bdeafc190b1
+D = D' => True => Accept
